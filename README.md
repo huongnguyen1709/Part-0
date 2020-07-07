@@ -1,3 +1,3 @@
 ## Part 0 - Exercises of fullstackopen2020 
   #### Exercise 0.4: new note 
-    ![websequencediagrams-photo](https://www.websequencediagrams.com/cgi-bin/cdraw?lz=dGl0bGUgY3JlYXRlIG5ldyBub3RlCgpicm93c2VyLT5zZXJ2ZXI6IEhUVFAgUE9TVCBodHRwczovL2Z1bGxzdGFjay1leGFtcGxlYXBwLmhlcm9rdWFwcC5jb20vbmV3XwBLBQBABi0-AFAHAEgHc3RhdHVzIGNvZGUgMzAyIEZvdW5kAGQXR0UATC5vdGVzAG8IAGsNTUwtY29kZQAhRm1haW4uY3MAVhQAEgkAH0pqAE8ZanMKCm5vdGUgb3ZlciAAgl4IAIM-CCBzdGFydHMgZXhlY3V0aW5nIGpzAIF_BnRoYXQgcmVxdWVzdHMgSlNPTiBkYXRhIGZyb20gAIN1BiAKZW5kAIN5HQCCbC9kYXRhLmpzb24AgwwTW3sgY29udGVudDogIkhUTUwgaXMgZWFzeSIsIGRhdGU6ICIyMDE5LTA1LTIzIiB9LCAuLi5dAIFfHQCBbwZlcyB0aGUgZXZlbnQgaGFuZGxlcgCBdghuZGVycwCFcwVzIHRvIGRpc3BsYXkAgW0K&s=default) (&lt;img /&gt;)
+    ![websequencediagrams-photo](https://github.com/huongnguyen1709/Part-0/blob/master/Images/create%20new%20note.png?raw=true) (&lt;img /&gt;)
