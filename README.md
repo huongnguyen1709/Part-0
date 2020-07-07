@@ -1,3 +1,3 @@
 Part 0 - Exercises of fullstackopen2020 <br />
   &nbsp; Exercise 0.4: new note <br />
-    &nbsp; &nbsp; &nbsp; &nbsp; [websequencediagrams](https://www.websequencediagrams.com/#) <br />
+    &nbsp; &nbsp; &nbsp; &nbsp; [websequencediagrams-photo](https://www.websequencediagrams.com/cgi-bin/cdraw?lz=dGl0bGUgY3JlYXRlIG5ldyBub3RlCgpicm93c2VyLT5zZXJ2ZXI6IEhUVFAgUE9TVCBodHRwczovL2Z1bGxzdGFjay1leGFtcGxlYXBwLmhlcm9rdWFwcC5jb20vbmV3XwBLBQBABi0-AFAHAEgHc3RhdHVzIGNvZGUgMzAyIEZvdW5kAGQXR0UATC5vdGVzAG8IAGsNTUwtY29kZQAhRm1haW4uY3MAVhQAEgkAH0pqAE8ZanMKCm5vdGUgb3ZlciAAgl4IAIM-CCBzdGFydHMgZXhlY3V0aW5nIGpzAIF_BnRoYXQgcmVxdWVzdHMgSlNPTiBkYXRhIGZyb20gAIN1BiAKZW5kAIN5HQCCbC9kYXRhLmpzb24AgwwTW3sgY29udGVudDogIkhUTUwgaXMgZWFzeSIsIGRhdGU6ICIyMDE5LTA1LTIzIiB9LCAuLi5dAIFfHQCBbwZlcyB0aGUgZXZlbnQgaGFuZGxlcgCBdghuZGVycwCFcwVzIHRvIGRpc3BsYXkAgW0K&s=default) <br />
