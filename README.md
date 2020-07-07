@@ -1,3 +1,3 @@
-Part 0 - Exercises of fullstackopen2020
-  0.4: new note
-    [websequencediagrams](https://www.websequencediagrams.com/#)
+Part 0 - Exercises of fullstackopen2020 <br />
+  0.4: new note <br />
+    [websequencediagrams](https://www.websequencediagrams.com/#) <br />
