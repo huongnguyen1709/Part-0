@@ -1,0 +1,17 @@
+title new note-spa
+
+user->browser: create new note, press the button form submit
+
+note over browser:
+browser prevent the default handling of form submit
+create new notes (content-type: JSON) and the timestamp (date)
+adds it to the notes list
+rerenders the note list on the page and sends the new note to the server.
+end note
+
+browser->server: HTTP POST https://fullstack-exampleapp.herokuapp.com/new_note_spa
+server->browser: HTTP status code 201 Created
+
+note over browser:
+browser executes to display notes with no further HTTP requests.
+end note
