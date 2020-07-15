@@ -1,14 +1,10 @@
 title Single page app
 
 browser->server: HTTP GET https://fullstack-exampleapp.herokuapp.com/spa
-server-->browser: HTML-code
-browser->server: HTTP GET https://fullstack-exampleapp.herokuapp.com/main.css
-server-->browser: main.css
-browser->server: HTTP GET https://fullstack-exampleapp.herokuapp.com/spa.js
-server-->browser: spa.js
+server-->browser: HTML-page
 
 note over browser:
-browser starts executing js-code
+browser starts executing HTML-page (the content are manipulated with JavaScript)
 that requests JSON data from server 
 end note
 
